@@ -1,5 +1,3 @@
-#https://www.geekering.com/categories/computer-vision/marcellacavalcanti/hand-tracking-and-finger-counting-in-python-with-mediapipe/#google_vignette
-
 import cv2
 import mediapipe as mp
 
