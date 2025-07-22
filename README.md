@@ -16,7 +16,7 @@ pip install mediapipe opencv-python
  ```
 
 
-`## Code Overview
+## Code Overview
 The script uses MediaPipe's Hands solution to detect hand landmarks and OpenCV for real-time video processing. The primary functions and components include:
 
 - **MediaPipe Hands**: Detects hand landmarks and their positions.
